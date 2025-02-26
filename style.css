@@ -1,0 +1,28 @@
+
+
+h1 {
+color: rgb(194, 139, 0);
+}   
+img {
+    padding: 25px;
+    border-radius: 60px;
+width: 300px;
+height: 450px;
+
+}
+
+body {
+text-align: center;
+    background-color: rgb(228, 192, 159);
+    padding: 25px;
+}
+
+h2 {
+    width: 50%;
+    margin: auto;
+    padding: 15px;
+}
+h3 {
+    width: 50%;
+    margin: auto;
+}
